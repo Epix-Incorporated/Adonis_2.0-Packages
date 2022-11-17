@@ -1,0 +1,9 @@
+{
+  "name": "Adonis_2.0-OfficialPackageRepo",
+  "tree": {
+    "Packages": {
+      "$className": "Folder",
+      "$path": "Packages"
+    },
+  }
+}
